@@ -1,2 +1,2 @@
 # SpringBootCRUDAngularJSExample
-Spring Boot java app, CRUD interface, AngularJS client
+Spring Boot java app, MySQL - Hibernate, CRUD interface, AngularJS client
